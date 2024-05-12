@@ -19,7 +19,7 @@ BUNDLE_ID = com.burbn.instagram
 Hackogram_FILES += SideloadedFixes.x
 endif
 
-# add your paths here
+https://www.dropbox.com/scl/fi/yye5iqjnpgozcup8vbc6s/com.burbn.instagram-330.0.0-Decrypted.ipa?rlkey=wc4u0tkkamencs96bdjs7h6tc&st=6ubn6wtu&dl=0
 Hackogram_IPA = path/to/the/decrypted/Instagram/ipa
 Hackogram_INJECT_DYLIBS = Tweaks/Rocket.dylib
 
